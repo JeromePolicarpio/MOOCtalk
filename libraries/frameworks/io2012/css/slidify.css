@@ -1,6 +1,37 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 @import url(http://fonts.googleapis.com/css?family=Signika+Negative);
 
+
+
+strong, b {
+  font-weight: bolder;
+}
+em {
+  font-style: italic;
+}
+
+img.center {
+  display: block;
+	margin: auto auto;
+}
+
+redtext {
+  color: red; 
+}
+
+bt {
+  color: blue; 
+}
+
+
+rt {
+  color: red; 
+}
+
+
+
+
+
 .license {
   font-size: 14px;
   color: #a9a9a9;
@@ -18,6 +49,7 @@
 .title-slide hgroup > h2{
   font-family: 'Signika Negative', 'Calibri', sans-serif;
 }
+
 
 /* Fonts and Spacing */
 article p, article li, article li.build{
