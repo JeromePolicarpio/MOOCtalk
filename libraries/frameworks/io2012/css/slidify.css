@@ -28,6 +28,11 @@ rt {
   color: red; 
 }
 
+bigtext {
+  font-size: 700%;
+  text-align: center;
+  color: gray;
+}
 
 
 

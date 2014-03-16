@@ -460,9 +460,26 @@ http://jhudatascience.org/
 ## They should take a stats class!
 
 
-<img class="center" src="../assets/img/easythere.png" style="height: 500px;">
+<img class="center" src="../assets/img/easythere.png" style="height: 450px;">
 
 http://simplystatistics.org/2013/07/19/the-failure-of-moocs-and-the-ecological-fallacy/
+
+---  &twocol w1:50% w2:50%
+## A completely insane statistic
+*** =left
+<center> Total Completers "Data Analysis" </center>
+
+</br></br></br>
+<center><bigtext>6503</bigtext></center>
+
+*** =right
+
+<center> M.S. in Bio/Statistics 2010-2012</center>
+
+</br></br></br>
+<center><bigtext>6761</bigtext></center>
+
+http://community.amstat.org/blogs/steve-pierson/2014/02/09/largest-graduate-programs-in-statistics
 
 ---
 
