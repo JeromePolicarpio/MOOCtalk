@@ -183,7 +183,8 @@ cat('<iframe src="../fig/classPlot5.html" width=100%, height=600></iframe>')
 - Much higher retention and completion rates for signature track
 - Between 1% and 12% Signature track rate for classes (depending on a variety of factors)
 - All of our classes are $49 for sig track
-  
+
+
 ---
 ## Case studies
 

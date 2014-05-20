@@ -114,7 +114,8 @@ ext_widgets : {rCharts: [libraries/nvd3]}
 - Much higher retention and completion rates for signature track
 - Between 1% and 12% Signature track rate for classes (depending on a variety of factors)
 - All of our classes are $49 for sig track
-  
+
+
 ---
 ## Case studies
 
