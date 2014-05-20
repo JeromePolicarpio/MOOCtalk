@@ -1,0 +1,10 @@
+base
+knitr
+<<<<<<< HEAD:rochester/.cache/__packages
+makeslides
+rCharts
+=======
+rCharts
+reshape2
+>>>>>>> upstream/master:current/.cache/__packages
+slidify

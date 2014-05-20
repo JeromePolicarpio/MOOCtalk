@@ -1,0 +1,92 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    <link rel='stylesheet' href='http://cdn.oesmith.co.uk/morris-0.4.2.min.css'>
+    
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js' type='text/javascript'></script>
+    <script src='http://cdn.oesmith.co.uk/morris-0.4.2.min.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body>
+    <div id='chartf04131f1557' class='rChart morris'></div>  
+    
+    <script type='text/javascript'>
+    var chartParams = {
+ "element": "chartf04131f1557",
+"width":            800,
+"height":            400,
+"xkey": "date",
+"ykeys": [
+ "enrollment",
+"soa10" 
+],
+"data": [
+ {
+ "enrollment":          16398,
+"date": "2012-09-24",
+"soa":            749,
+"class": "MBBC1",
+"offering": 1,
+"ds":              0,
+"soa10":           7490 
+},
+{
+ "enrollment":          22153,
+"date": "2013-04-16",
+"soa":           1427,
+"class": "MBBC1",
+"offering": 2,
+"ds":              0,
+"soa10":          14270 
+},
+{
+ "enrollment":          18270,
+"date": "2013-07-29",
+"soa":           1109,
+"class": "MBBC1",
+"offering": 3,
+"ds":              0,
+"soa10":          11090 
+},
+{
+ "enrollment":          18270,
+"date": "2013-11-18",
+"soa":            408,
+"class": "MBBC1",
+"offering": 4,
+"ds":              0,
+"soa10":           4080 
+},
+{
+ "enrollment":          16454,
+"date": "2014-03-03",
+"soa":            196,
+"class": "MBBC1",
+"offering": 5,
+"ds":              0,
+"soa10":           1960 
+} 
+],
+"pointSize":             10,
+"lineWidth":              5,
+"id": "chartf04131f1557",
+"labels": [ "enrollment", "soa10" ] 
+},
+      chartType = "Line"
+    new Morris[chartType](chartParams)
+</script>
+    
+  </body>
+</html>
